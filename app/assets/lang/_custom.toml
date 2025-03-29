@@ -1,0 +1,21 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "OpPlease1 Launcher"
+
+[ejs.landing]
+mediaLinkURL = "#"
+mediaGitHubURL = "https://github.com/opplease3/opplease1launcher"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "opplease1 런처에오산것을 환영합니다!"
+welcomeDescription = ""
+welcomeDescCTA = "마인크래프트를를 사랑하는 당신을 위한 최고의 선물이 되겠습니다."
